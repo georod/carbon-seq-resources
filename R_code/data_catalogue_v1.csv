@@ -1,4 +1,4 @@
-author, name,short_name,date_start,date_end,format,type,extent,use,habitat,potential_uses,comments, url_data,url_paper
+author,name,short_name,date_start,date_end,format,type,extent,use,habitat,potential_uses,comments, url_data,url_paper
 CEC,North America land cover 2015,North America LC - CEC,2015,2015,raster,categorical,North America,primary,various,,19 land cover types, http://www.cec.org/files/atlas,
 CEC,North America land cover 2010,North America LC - CEC,2010,2010,raster,categorical,North America,primary,various,,19 land cover types, http://www.cec.org/files/atlas,
 StatsCan,2016 census data - Agricultural Regions,Agricultural Regions,2016,2016,vector,categorical,Canada,ancillary,various,,,https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm,
