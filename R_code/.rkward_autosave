@@ -1,0 +1,29 @@
+# Data exploration for thesis
+
+## 2021-04-22
+## Peter R.
+
+# Aim:
+# Here I tried to catalogue the data I have gathered so far
+
+# Libaries
+#library(readxl)
+library(ggplot2)
+
+
+d1 <- read.csv("./data_catalogue_v1.csv",header = TRUE, sep=',', quote="\"")
+str(d1)
+
+# Forests 
+d2 <- d1[d1$habitat!='forests' & d1$use=='primary' & !is.na(d1$date_start),]
+
+path1 <- c("./") 
+
+png("forest_data_sets1.png")
+ggplot(d2) + geom_segment(aes(x=date_start,xend=ifelse(date_start==date_end, (date_end+0.5), date_end), y=short_name, yend=short_name, color=extent),size=10) + labs(x="Year") + labs(y = "") + ggtitle("Forest related data sets")
+dev.off()
+
+
+
+# References
+# https://medium.com/@jeffgriesemer/creating-timeline-charts-in-r-my-fitness-activity-58eeb14af3df
