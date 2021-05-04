@@ -1,7 +1,7 @@
 # carbon-seq-resources
 Carbon sequestration resources
 ## Carbon sequestration data
-Here is a list of potentially useful data sources
+Here is a list of potentially useful data sources.
 |author| name|short_name|date_start|date_end|format|type|extent|use|habitat|potential_uses|comments| url_data|url_paper|
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |WWF|GLWD-level1|GLWD (lakes and wetlands)|2004|2004|vector|categorical|Global|primary|wetlands|0|Level 1 (GLWD-1) comprises the 3067 largest lakes (area ≥ 50 km2) and 654 largest reservoirs (storage capacity ≥ 0.5 km3) worldwide, and includes extensive attribute data|[data link](https://www.worldwildlife.org/publications/global-lakes-and-wetlands-database-large-lake-polygons-level-1)|[paper link](0)|
@@ -25,5 +25,11 @@ Here is a list of potentially useful data sources
 |National Forest Inventory System|Canada’s National Forest Inventory System|CNFI|0|0|vector|various|Canada|primary|forests|0|10-year sampling frequency|[data link](0)|[paper link](0)|
 |Hall et al. (2020)|National Burned Area Composite|Nat. Burned Area Composite|1986|2019|raster|categorical|Canada|primary|various|0|Generating annual estimates of forest fire disturbance in Canada: the National Burned Area Composite|[data link](0)|[paper link](https://www.publish.csiro.au/wf/WF19201)|
 |Geological Survey of Canada|Peatlands of Canada|Peatlands|2011|2011.5|vector|categorical|Canada|primary|wetlands|0|Tarnocai et al. (2011)|[data link](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/fulle.web&search1=R=288786)|[paper link](0)|
+
+A time-line figure using some of the above entries. R code for this figure is found in the `R_code` folder.
+
+![Forest related data time-line](./images/forest_data_sets1.png "Forest related data time-line")
+
+
 
 
