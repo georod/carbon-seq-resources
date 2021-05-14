@@ -1,6 +1,6 @@
 # Data exploration for thesis
 
-## 2021-05-04
+## 2021-05-14
 ## Peter R.
 
 ### Aim:
@@ -22,6 +22,7 @@ path1 <- c("../images/")
 
 
 ggplot(d2) + geom_segment(aes(x=date_start,xend=ifelse(date_start==date_end, (date_end+0.5), date_end), y=short_name, yend=short_name, color=extent),size=10) + labs(x="Year") + labs(y = "") + ggtitle("Forest related data sets")
+
 
 png(paste0(path1,"forest_data_sets1.png"))
 ggplot(d2) + geom_segment(aes(x=date_start,xend=ifelse(date_start==date_end, (date_end+0.5), date_end), y=short_name, yend=short_name, color=extent),size=10) + labs(x="Year") + labs(y = "") + ggtitle("Forest related data sets")
