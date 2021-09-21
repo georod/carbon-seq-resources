@@ -51,7 +51,7 @@ Here is a list of potentially useful data sources for analyzing forest (and wetl
 |Agriculture and Agri-Food Canada |Ecoregions|1991|1999|vector|Canada||[data link](https://open.canada.ca/data/en/dataset/ade80d26-61f5-439e-8966-73b352811fe6)||
 |Government of Canada|Protected areas|2020|2020|vector|Canada||[data link](https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html)||
 |G. Larocque et al.|St. Lawrence AGB|2010|2150|raster|St. Lawrence lowlands||||
-|Boulanger & Pascual Puigdevall 2021|Quebec AGB|2020|2150|raster|Quebéc||||
+|Boulanger & Pascual Puigdevall 2021|Quebec AGB|2020|2150|raster|Quebéc|||[paper link](https://doi.org/10.1007/s10980-021-01241-7)|
 |StatsCan|Census SD|2016|2016|vector|Canada||[data link](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm)||
 |Spawn et al. 2020|Global Carbon biomass|2010|2010|raster|Global||[data link](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1763)|[paper link](https://www.nature.com/articles/s41597-020-0444-4)|
 |WWF|GLWD (lakes and wetlands)|2004|2004|vector|Global||[data link](https://www.worldwildlife.org/publications/global-lakes-and-wetlands-database-large-lake-polygons-level-1)||
