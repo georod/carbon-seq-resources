@@ -31,7 +31,7 @@ Here is a list of potentially useful data sources for analyzing forest (and wetl
 |24|Natural Resources Canada |Land cover of Canada|2010|2010|raster|Canada|[data link](https://open.canada.ca/data/en/dataset/c688b87f-e85f-4842-b0e1-a8f79ebf1133)||
 |25|Natural Resources Canada |Land cover of Canada|2015|2015|raster|Canada|[data link](https://open.canada.ca/data/en/dataset/4e615eae-b90c-420b-adee-2ca35896caf6)||
 |26|Agriculture and Agri-Food Canada |Annual Crop Inventory|2009|2019|raster|Canada|[data link](https://www.agr.gc.ca/atlas/data_donnees/agr/annualCropInventory/tif/2019/)||
-|27|Mastasci et al. (2017)|Canada forest structure|2006|2012|raster|Canada||[paper link](https://www.sciencedirect.com/science/article/pii/S0034425718303572)|
+|27|Mastasci et al. (2018)|Canada forest structure|1984|2016|raster|Canada|[data link](https://opendata.nfis.org/mapserver/nfis-change_eng.html)|[paper link](https://www.sciencedirect.com/science/article/pii/S0034425718303572)|
 |28|NASA - NEO|Fires - MODIS|2000|2020|raster|Global|[data link](https://earthobservatory.nasa.gov/global-maps/MOD14A1_M_FIRE)||
 |29|National Forest Inventory System|CNFI|||vector|Canada|||
 |30|Hall et al. (2020)|Nat. Burned Area Composite|1986|2019|raster|Canada||[paper link](https://www.publish.csiro.au/wf/WF19201)|
@@ -53,7 +53,7 @@ Here is a list of potentially useful data sources for analyzing forest (and wetl
 |46|Agriculture and Agri-Food Canada |Ecodistricts|1991|1999|vector|Canada|[data link](https://open.canada.ca/data/en/dataset/fe9fd41c-1f67-4bc5-809d-05b62986b26b)||
 |47|Agriculture and Agri-Food Canada |Ecoprovinces|1991|1999|vector|Canada|[data link](https://open.canada.ca/data/en/dataset/98fa7335-fbfe-4289-9a0e-d6bf3874b424)||
 |48|Agriculture and Agri-Food Canada |Ecoregions|1991|1999|vector|Canada|[data link](https://open.canada.ca/data/en/dataset/ade80d26-61f5-439e-8966-73b352811fe6)||
-|49|Government of Ontario|Ecozones|2020|2020||Ontario|[data link](https://open.canada.ca/data/en/dataset/092130fc-7eed-480e-9dee-f0c564ba11df)||
+|49|Government of Ontario|Ecozones|2020|2020|vector|Ontario|[data link](https://open.canada.ca/data/en/dataset/092130fc-7eed-480e-9dee-f0c564ba11df)||
 |50|Agriculture and Agri-Food Canada|Ecozones|2013|2013|vector|Canada|[data link](https://open.canada.ca/data/en/dataset/7ad7ea01-eb23-4824-bccc-66adb7c5bdf8)||
 |51|Dallaire et al. 2018|GloRiC|2018|2018|vector|Global|[data link](https://www.hydrosheds.org/page/gloric)|[paper link](https://iopscience.iop.org/article/10.1088/1748-9326/aad8e9)|
 |52|Wang et al. (2016)|ClimateNA|1980|2021|raster|North America|[data link](https://sites.ualberta.ca/~ahamann/data/climatena.html)|[paper link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0156720)|
@@ -66,7 +66,16 @@ Here is a list of potentially useful data sources for analyzing forest (and wetl
 |59|WWF|GLWD (lakes and wetlands)|2004|2004|vector|Global|[data link](https://www.worldwildlife.org/publications/global-lakes-and-wetlands-database-large-lake-polygons-level-1)||
 |60|WWF|GLWD (lakes and wetlands)|2004|2004|vector|Global|[data link](https://www.worldwildlife.org/publications/global-lakes-and-wetlands-database-small-lake-polygons-level-2)||
 |61|WWF|GLWD (lakes and wetlands)|2004|2004|vector|Global|[data link](https://www.worldwildlife.org/publications/global-lakes-and-wetlands-database-lakes-and-wetlands-grid-level-3)||
-
+|62|Ontario Ministry of Natural Resources and Forestry|OWB Main|2020|2020|vector|Ontario|[data link](https://geohub.lio.gov.on.ca/maps/mnrf::ontario-watershed-boundaries-owb/about)||
+|63|Ontario Ministry of Natural Resources and Forestry|OWBPRIM|2021|2021|vector|Ontario|[data link](https://geohub.lio.gov.on.ca/maps/mnrf::ontario-watershed-boundaries-owb/about)||
+|64|Ontario Ministry of Natural Resources and Forestry|OWBSEC|2022|2022|vector|Ontario|[data link](https://geohub.lio.gov.on.ca/maps/mnrf::ontario-watershed-boundaries-owb/about)||
+|65|Ontario Ministry of Natural Resources and Forestry|OWBTERT|2023|2023|vector|Ontario|[data link](https://geohub.lio.gov.on.ca/maps/mnrf::ontario-watershed-boundaries-owb/about)||
+|66|Ontario Ministry of Natural Resources and Forestry|OWBQUAT|2024|2024|vector|Ontario|[data link](https://geohub.lio.gov.on.ca/maps/mnrf::ontario-watershed-boundaries-owb/about)||
+|67|Ontario Ministry of Natural Resources and Forestry|OntGrids10km|2020|2020|vector|Ontario|[data link]( https://geohub.lio.gov.on.ca/datasets/mnrf::utm-universal-transverse-mercator-10-km-grid/about)||
+|68|Martin et al. 2018|Wood C|2018|2018|tabular|Global|[data link](https://www.try-db.org/de/DatasetDetails.php)||
+|69|Guindon et al. 2017|CanLaD|1984|2015|raster|Canada|[data link](https://open.canada.ca/data/en/dataset/add1346b-f632-4eb9-a83d-a662b38655ad)||
+|70|Government of Ontario|Forest Pests|1196|2020|vector|Ontario|[data link](https://open.canada.ca/data/en/dataset/57ea9ca7-ca04-4ad5-923c-dae250dc316f)||
+|71|Hermosilla et al. 2022|Forest LC|1984|2019|raster|Canada|[data link](https://opendata.nfis.org/mapserver/nfis-change_eng.html)||
 
 
 
