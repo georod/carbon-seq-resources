@@ -76,6 +76,8 @@ Here is a list of potentially useful data sources for analyzing forest (and wetl
 |69|Guindon et al. 2017|CanLaD|1984|2015|raster|Canada|[data link](https://open.canada.ca/data/en/dataset/add1346b-f632-4eb9-a83d-a662b38655ad)||
 |70|Government of Ontario|Forest Pests|1196|2020|vector|Ontario|[data link](https://open.canada.ca/data/en/dataset/57ea9ca7-ca04-4ad5-923c-dae250dc316f)||
 |71|Hermosilla et al. 2022|Forest LC|1984|2019|raster|Canada|[data link](https://opendata.nfis.org/mapserver/nfis-change_eng.html)||
+|72|Land Information Ontario|Fire D. Area ON|1960|2020|vector|Ontario|[data link](https://geohub.lio.gov.on.ca/datasets/fire-disturbance-area/explore?location=49.261208%2C-84.732487%2C5.81)||
+
 
 
 
